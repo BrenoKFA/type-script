@@ -1,8 +1,5 @@
-let nome: string = 'Breno'
+let nome2: string = 'Breno'
 
 let idade: number = 17
 
 let programador: boolean = true
-
-let nomes: string[] = ['José', 'Lucas', 'Pedro']
-nomes.push(43)
